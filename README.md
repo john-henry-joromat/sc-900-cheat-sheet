@@ -30,3 +30,5 @@ Your one-stop study guide for **Microsoft Security, Compliance, and Identity Fun
 ## 👨‍💻 About the Author
 
 Hi! I’m John Henry Joromat, an IT Support Engineer pivoting into Cloud & DevOps. You can find me on [LinkedIn](https://www.linkedin.com/in/john-henry-joromat/) or [GitHub](https://github.com/john-henry-joromat).
+
+*Updated as of June 16, 2025*
