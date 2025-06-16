@@ -1,0 +1,12 @@
+# 1.1.1: Shared Responsibility Model
+
+---
+
+##  🧱 The Basic Premise ## 
+- When you're fully on-premises, you own everything—security, compliance, hardware, and headaches.
+- In the cloud, you share the load. Some things are your job, and some are handled by the cloud provider.
+- The exact split depends on the cloud service type: IaaS, PaaS, or SaaS.
+
+---
+
+## 💡 The Shared Responsibility Model by Deployment Type ## 
